@@ -1,4 +1,4 @@
-# Simulation of Low Density Parity Check (LDPC) code.
+# Simulation of Low Density Parity Check (LDPC) error correction code.
 LDPC is a robust technique for channel coding. Repository consists of python modules to generate and test it's performance using density evolution and EXIT chart analysis.<br />
 File description:<br />
 **chk_c.py** - calculation of log likelihood ratios of bit/check nodes <br />
